@@ -1,0 +1,10 @@
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\bin\Debug\vypocetObsahu.exe.config
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\bin\Debug\vypocetObsahu.exe
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\bin\Debug\vypocetObsahu.pdb
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.csprojAssemblyReference.cache
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.Form1.resources
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.Properties.Resources.resources
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.csproj.GenerateResource.cache
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.csproj.CoreCompileInputs.cache
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.exe
+C:\Users\hynek\source\repos\vypocetObsahu\vypocetObsahu\obj\Debug\vypocetObsahu.pdb
